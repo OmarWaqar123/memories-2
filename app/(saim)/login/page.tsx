@@ -59,7 +59,7 @@ export default function Login() {
             </Button>
 
 
-            <p className='font-bold text-base text-obn text-center my-5'>Don't have an account? <Link href={'/register'} className='text-oblue'>create your account</Link></p>
+            <p className='font-bold text-base text-obn text-center my-5'>Don&apos;t have an account? <Link href={'/register'} className='text-oblue'>create your account</Link></p>
         </div>
 
  

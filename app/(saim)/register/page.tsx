@@ -17,7 +17,7 @@ export default function Register() {
         <div className='w-[27%]  bg-white rounded-lg px-8 flex flex-col '>
           <h4 className='font-bold text-3xl text-opurp mt-10'>Create your account</h4>
 
-          <p className='mt-3 mb-6 text-base text-obn'>Your private space to capture life’s most important memories
+          <p className='mt-3 mb-6 text-base text-obn'>Your private space to capture life&apos;s most important memories
            </p>
 
            <div className='flex items-center gap-2 mb-4'>
