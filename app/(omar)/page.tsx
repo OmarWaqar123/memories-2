@@ -23,7 +23,7 @@ export default function Home() {
             Rediscover all her incredible stories
            </h1>
            <p className='flex-wrap text-white font-semibold md:font-bold text-lg md:text-2xl text-center md:text-left max-w-xl'>The only online memorial that keeps the conversation 
-            going with family and friends long after she's gone. 
+            going with family and friends long after she&apos;s gone. 
             </p>
 
             <div className='flex flex-col md:flex-row -ml-7 text-white mt-3 font-semibold md:font-extrabold text-lg md:text-xl'>
